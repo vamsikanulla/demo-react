@@ -4,7 +4,7 @@ function TodoList() {
     const [tasks, setTasks] = useState([
     {
     id: 1,
-    text: 'Doctor Appointment',
+    text: 'Doctor Appointment Confirmed',
     completed: true
     },
     {
